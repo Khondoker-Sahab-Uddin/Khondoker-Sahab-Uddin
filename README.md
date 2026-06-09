@@ -52,27 +52,26 @@ An AI-powered assistant designed to improve learning, productivity, and informat
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Khondoker-Sahab-Uddin&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Khondoker-Sahab-Uddin&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Khondoker-Sahab-Uddin&hide_border=true&theme=transparent" />
 </p>
 
 ---
 
-## Contribution Activity
+## Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Khondoker-Sahab-Uddin/Khondoker-Sahab-Uddin/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Khondoker-Sahab-Uddin/Khondoker-Sahab-Uddin/output/github-contribution-grid-snake-dark.svg"
+    />
     <img
       alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/Khondoker-Sahab-Uddin/Khondoker-Sahab-Uddin/output/github-contribution-grid-snake.svg">
+      src="https://raw.githubusercontent.com/Khondoker-Sahab-Uddin/Khondoker-Sahab-Uddin/output/github-contribution-grid-snake.svg"
+    />
   </picture>
 </p>
 
