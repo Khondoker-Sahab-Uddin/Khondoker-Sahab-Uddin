@@ -8,7 +8,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/khondoker-tonoy/">LinkedIn</a> •
-  <a href="https://sites.google.com/view/khondoker-sahab-uddin-tonoy/home">Portfolio</a> •
+  <a href="https://sites.google.com/view/sahab-portfolio/home">Portfolio</a> •
   <a href="mailto:khtonoy5@gmail.com">Email</a>
 </p>
 
