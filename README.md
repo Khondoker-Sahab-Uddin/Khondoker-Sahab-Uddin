@@ -34,7 +34,7 @@ Currently building **Uttoron.AI**, an AI-powered assistant focused on learning a
 
 ---
 
-## Current Interests
+## Current Focus
 
 - Artificial Intelligence
 - Backend Development
@@ -73,9 +73,29 @@ An AI-powered assistant designed to improve learning, productivity, and informat
 
 ---
 
+## Contribution Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Khondoker-Sahab-Uddin/Khondoker-Sahab-Uddin/output/github-contribution-grid-snake-dark.svg">
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Khondoker-Sahab-Uddin/Khondoker-Sahab-Uddin/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<div align="center">
+
+*A snake quietly consumes my contribution graph while I keep feeding it commits.*
+
+</div>
+
+---
+
 ## Connect
 
-- Portfolio: https://sites.google.com/view/khondoker-sahab-uddin-tonoy/home
+- Portfolio: https://sites.google.com/view/sahab-portfolio/home
 - LinkedIn: https://www.linkedin.com/in/khondoker-tonoy/
 - Email: khtonoy5@gmail.com
 
@@ -83,6 +103,6 @@ An AI-powered assistant designed to improve learning, productivity, and informat
 
 <div align="center">
 
-*"Building things, breaking things, learning from both."*
+**Building things, breaking things, learning from both.**
 
 </div>
