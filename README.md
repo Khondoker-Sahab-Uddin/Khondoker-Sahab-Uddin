@@ -18,9 +18,9 @@
 
 ## About
 
-I am a Computer Science student with interests in software engineering, artificial intelligence, automation, and embedded systems.
+I am a Computer Science student interested in software engineering, artificial intelligence, automation, and embedded systems.
 
-I enjoy building practical solutions that solve real-world problems and exploring technologies that bridge software and hardware.
+I enjoy building practical solutions that solve real-world problems and exploring technologies that connect software and hardware.
 
 Currently building **Uttoron.AI**, an AI-powered assistant focused on learning and productivity.
 
@@ -55,20 +55,11 @@ An AI-powered assistant designed to improve learning, productivity, and informat
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Khondoker-Sahab-Uddin&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khondoker-Sahab-Uddin&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Khondoker-Sahab-Uddin&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=1800" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Khondoker-Sahab-Uddin&hide_border=true" />
-</p>
-
----
-
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khondoker-Sahab-Uddin&hide_border=true&area=true" />
 </p>
 
 ---
